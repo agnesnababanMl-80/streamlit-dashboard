@@ -2,5 +2,6 @@ streamlit == 1.32.0
 Babel == 2.11.0
 pandas == 2.2.2
 matplotlib == 3.8.4
+plotly == 5.22.0
 pytz == 2024.1
 Babel == 2.11.0
